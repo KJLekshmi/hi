@@ -1,0 +1,130 @@
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+body {
+    background-color: black;
+}
+
+div {
+    width: 77px;
+    height: 115px;
+    background-color: gray;
+    margin-left: 445px;
+}
+
+#q1 {
+    background-color: darkcyan;
+    margin-left: 549px;
+    margin-top: -114px;
+}
+
+#w1 {
+    background-color: darkgreen;
+    margin-left: 644px;
+    margin-top: -114px;
+}
+
+#e1 {
+    background-color: green;
+    margin-top: -114px;
+    margin-left: 748px;
+}
+
+#r1 {
+    background-color: greenyellow;
+    margin-top: -114px;
+    margin-left: 842px;
+}
+
+#t1 {
+    background-color: brown;
+    margin-top: -14px;
+    margin-left: 345px;
+}
+
+#y {
+    background-color: blanchedalmond;
+    margin-top: -114px;
+    margin-left: 449px;
+}
+
+#u {
+    background-color: lawngreen;
+    margin-top: -115px;
+    margin-left: 551px;
+}
+
+#i {
+    background-color: aqua;
+    margin-top: -115px;
+    margin-left: 648px;
+}
+
+#o {
+    background-color: darkkhaki;
+    margin-top: -115px;
+    margin-left: 748px;
+}
+
+#p {
+    background-color: blue;
+    margin-top: -115px;
+    margin-left: 842px;
+}
+
+#a {
+    background-color: crimson;
+    margin-top: -113px;
+    margin-left: 936px;
+}
+
+#s {
+    background-color: purple;
+    margin-top: 10px;
+    margin-left: 251px;
+}
+
+#d {
+    background-color: darkorange;
+    margin-top: -115px;
+    margin-left: 351px;
+}
+
+#f {
+    background-color: cyan;
+    margin-top: -115px;
+    margin-left: 451px;
+}
+
+#g {
+    background-color: hotpink;
+    margin-top: -115px;
+    margin-left: 551px;
+}
+
+#h {
+    background-color: rgba(255, 250, 205, 0.966);
+    margin-top: -115px;
+    margin-left: 651px;
+}
+
+#j {
+    background-color: lightcoral;
+    margin-top: -115px;
+    margin-left: 751px;
+}
+
+#k {
+    background-color: lavenderblush;
+    margin-top: -115px;
+    margin-left: 846px;
+}
+#l{
+    background-color: magenta;
+margin-top: -115px;
+margin-left: 940px;}
+#m{background-color: beige;
+margin-top: -115px;
+margin-left: 1030px;}
